@@ -10,14 +10,15 @@ Server Emulator for Mission Against Terror: City Under Fire
 * Nickname/Character Creation (Nickname already exists)
 * Friends List (Online/Offline detection)
 * Channel Player List
-
+* Inventory
+* Enter Room
+* Create Room
+* Room List
 
 # To Do
 * ``[GM]`` Nickname Check
 * Chat
 * GM Chat
-* Inventory
-* Rooms (RoomList, Enter Room, Create Room)
 * FOV Changer
 * Viewmodel FOV Changer
 
