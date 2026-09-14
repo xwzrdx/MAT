@@ -35,6 +35,7 @@ Server Emulator for Mission Against Terror: City Under Fire
 <img width="1025" height="777" alt="image" src="https://github.com/user-attachments/assets/261e3638-a16f-424b-bd83-4851a2b8fb11" />
 <img width="511" height="613" alt="image" src="https://github.com/user-attachments/assets/bb63abdb-6e15-4629-b79b-66cea039f5fa" />
 <img width="1017" height="793" alt="image" src="https://github.com/user-attachments/assets/5e6b7c11-1e6e-4841-8109-08b8f447a502" />
+<img width="1911" height="787" alt="image" src="https://github.com/user-attachments/assets/3e66977b-8387-47f4-981f-9900d99734db" />
 
 
 
