@@ -27,8 +27,6 @@ Server Emulator for Mission Against Terror: City Under Fire
 * GM Chat
 * Shop
 * Gifting
-* FOV Changer
-* Viewmodel FOV Changer
 * Gameplay Replication because for some reason its not c2c/p2p in such an old game lol (Crouch, Firing, Reloading, Jumping, Movement, Damage, etc.)
 * V (Dance) to restore Health
 * Headshot Damage
