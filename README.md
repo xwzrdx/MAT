@@ -19,6 +19,7 @@ Server Emulator for Mission Against Terror: City Under Fire
 * FOV Changer
 * Viewmodel FOV Changer
 * FPS Unlocker (originally locked at around 80 FPS)
+* Weapon Sway when aiming around
 
 # To Do
 * ``[GM]`` Nickname Check
