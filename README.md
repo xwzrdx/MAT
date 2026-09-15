@@ -15,12 +15,14 @@ Server Emulator for Mission Against Terror: City Under Fire
 * Create Room
 * Room List
 * Player Replication Data: Crouch, Walking, Running, XYZ Movement/Rotation, Ammo
-* Gameplay Replication: Scores, Game time, Scoreboards, etc.
+* Gameplay Replication: Scores, Game time, Scoreboards, etc.  
 
 # To Do
 * ``[GM]`` Nickname Check
 * Chat
 * GM Chat
+* Shop
+* Gifting
 * FOV Changer
 * Viewmodel FOV Changer
 * Gameplay Replication because for some reason its not c2c/p2p in such an old game lol (Crouch, Firing, Reloading, Jumping, Movement, Damage, etc.)
