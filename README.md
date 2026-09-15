@@ -36,6 +36,7 @@ Server Emulator for Mission Against Terror: City Under Fire
 * Damage Numbers
 * Crosshair Changer
 * GUNGAME Mode
+* ELIMINATION Mode (no respawn when dead until all players from a team die)
 
 # Screenshots
 <img width="1016" height="788" alt="image" src="https://github.com/user-attachments/assets/b43b1875-453d-4e3b-b9c7-f9c552ec3ea5" />
