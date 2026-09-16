@@ -39,6 +39,8 @@ Server Emulator for Mission Against Terror: City Under Fire
 * GUNGAME Mode
 * ELIMINATION Mode (no respawn when dead until all players from a team die)
 * HEADSHOT ONLY Mode (only headshot damage registered)
+* Resolution Changer (highest supported resolution is ``1400x900`` lmao)
+* Widescreen resolution/aspect ratio support
 
 # Screenshots
 <img width="1016" height="788" alt="image" src="https://github.com/user-attachments/assets/b43b1875-453d-4e3b-b9c7-f9c552ec3ea5" />
