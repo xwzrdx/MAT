@@ -37,6 +37,8 @@ Server Emulator for Mission Against Terror: City Under Fire
 * Crosshair Changer
 * GUNGAME Mode
 * ELIMINATION Mode (no respawn when dead until all players from a team die)
+* HEADSHOT ONLY Mode (only headshot damage registered)
+* TRAINING Mode (6 bots who spawn on enemy team and dont move, 1 shot kill and instant respawn)
 
 # Screenshots
 <img width="1016" height="788" alt="image" src="https://github.com/user-attachments/assets/b43b1875-453d-4e3b-b9c7-f9c552ec3ea5" />
