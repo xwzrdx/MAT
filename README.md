@@ -23,8 +23,14 @@ Server Emulator for Mission Against Terror: City Under Fire
 * Friendly Fire Mode ``[FRIENDLYFIRE]`` room-name command
 * Hardcore Mode ``[HARDCORE]`` room-name command (35 HP, no HUD except for crosshair & names, friendly fire enabled)
 * Training Mode ``[TRAINING]`` room-name command (Aim Training utility, 6 dummies with 1 HP, instantly respawning)
+* Fog 
+* Silver & Gold Currencies
+* Shop (somewhat, not perfect yet)
 
 # To Do
+* AI/Mummy Mode
+* VIP (Apparently the game has some sort of VIP/premium system)
+* Leave Room (Including the 200 Silver penalty for leaving unless VIP)
 * ``[GM]`` Nickname Check
 * Chat
 * GM Chat
@@ -56,6 +62,7 @@ Server Emulator for Mission Against Terror: City Under Fire
 <img width="511" height="613" alt="image" src="https://github.com/user-attachments/assets/bb63abdb-6e15-4629-b79b-66cea039f5fa" />
 <img width="1017" height="793" alt="image" src="https://github.com/user-attachments/assets/5e6b7c11-1e6e-4841-8109-08b8f447a502" />
 <img width="1911" height="787" alt="image" src="https://github.com/user-attachments/assets/3e66977b-8387-47f4-981f-9900d99734db" />
+<img width="1262" height="978" alt="image" src="https://github.com/user-attachments/assets/be6961a1-33fc-48f0-bfd7-03e7d1e663e8" />
 
 
 
