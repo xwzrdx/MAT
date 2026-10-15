@@ -20,6 +20,7 @@ Server Emulator for Mission Against Terror: City Under Fire
 * Viewmodel FOV Changer
 * FPS Unlocker (originally locked at around 80 FPS)
 * Weapon Sway when looking around
+* Dynamic Viewmodel Adaptation (Corner Slice & Wall Pushback)
 * Friendly Fire Mode ``[FRIENDLYFIRE]`` room-name command
 * Hardcore Mode ``[HARDCORE]`` room-name command (35 HP, no HUD except for crosshair & names, friendly fire enabled)
 * Training Mode ``[TRAINING]`` room-name command (Aim Training utility, 6 dummies with 1 HP, instantly respawning)
